@@ -3,3 +3,4 @@
 # exercicioIA
 # exercicioaula
 # exercicioaula
+# exercicioaula
