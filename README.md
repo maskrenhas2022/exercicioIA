@@ -2,3 +2,4 @@
 # exercicioIA
 # exercicioIA
 # exercicioaula
+# exercicioaula
