@@ -1,2 +1,3 @@
 # exercicioIA
 # exercicioIA
+# exercicioIA
